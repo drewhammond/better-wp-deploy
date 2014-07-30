@@ -10,6 +10,9 @@
 /.idea
 atlassian-ide-plugin.xml
 
+# Composer files
+/vendor
+
 # Ignore WordPress directory
 # TODO: Do this after I figure out how I want to structure this project
 

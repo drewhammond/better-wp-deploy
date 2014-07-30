@@ -1,0 +1,19 @@
+{
+    "name": "drewhammond/better-wp-deploy",
+    "version": "0.0.1",
+    "description": "A better way to deploy WordPress",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Drew Hammond",
+            "email": "drew@alphagenetica.com",
+            "homepage": "http://www.alphagenetica.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/drewhammond/better-wp-deploy"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
