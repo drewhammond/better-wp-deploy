@@ -1,0 +1,15 @@
+# Ignore vagrant
+.vagrant
+
+# Ignore logs and files that only exist locally
+.log
+.bak
+.off
+
+# Ignore IDE files
+/.idea
+atlassian-ide-plugin.xml
+
+# Ignore WordPress directory
+# TODO: Do this after I figure out how I want to structure this project
+
